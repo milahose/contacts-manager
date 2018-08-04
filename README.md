@@ -1,11 +1,6 @@
-<a href="https://ultimateangular.com" target="_blank"><img src="https://ultimateangular.com/assets/img/banners/ua-github.svg"></a>
-
-# Ultimate Angular: Pro App
-
-> This repo serves as the seed project for the Ultimate Angular 1.x Pro course as well as the final solution in a separate branch, come and [learn advanced Angular](https://ultimateangular.com) 1.5 architecture and components!
+# Contacts Manager
 
 [Setup and install](#setup-and-install) |
-[Tasks](#tasks) |
 [Firebase Rules](#firebase-rules) |
 [Resources](#resources)
 
@@ -13,7 +8,7 @@
 
 ## Live demo of app
 
-[Here's the app](https://contacts-manager-e486f.firebaseapp.com) you're about to build, check it out! Create a user or login to get started with the contacts manager.
+[Here's the app](https://contacts-manager-e486f.firebaseapp.com), check it out! Create a user or login to get started with the contacts manager.
 
 ## Setup and install
 
@@ -21,7 +16,7 @@ Fork this repo from inside GitHub so you can commit directly to your account, or
 
 #### Dependency installation
 
-During the time building this project, you'll need development dependencies of which run on Node.js, follow the steps below for setting everything up (if you have some of these already, skip to the next step where appropriate):
+In order to get started, you'll need development dependencies of which run on Node.js, follow the steps below for setting everything up (if you have some of these already, skip to the next step where appropriate):
 
 1. Download and install [Node.js here](https://nodejs.org/en/download/) for Windows or for Mac.
 2. Install Firebase CLI on the command-line with `npm install -g firebase-tools`
@@ -34,7 +29,7 @@ That's about it for tooling you'll need to run the project, let's move onto the 
 Now you've pulled down the repo and have everything setup, you'll need to `cd` into the directory that you cloned the repo into and run some quick tasks:
 
 ```
-cd <master-seed-app-folder>
+cd <contacts-manager>
 npm install
 ```
 
@@ -44,24 +39,6 @@ Now simply run this to boot up the server:
 
 ```
 npm start
-```
-
-Everything you do will be inside of `/src`, and everything is compiled and outputted inside `/dist`, this is the same for both local development and deployment.
-
-## Tasks
-
-A quick reminder of all tasks available:
-
-#### Running the local server
-
-```
-npm start
-```
-
-#### Running the tests
-
-```
-npm test
 ```
 
 #### Deploying to Firebase
