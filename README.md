@@ -8,7 +8,7 @@
 
 ## Live demo of app
 
-[Here's the app](https://contacts-manager-e486f.firebaseapp.com), check it out! Create a user or login to get started with the contacts manager.
+[Here's the app](https://contacts-manager-22cf7.firebaseapp.com/), check it out! Create a user or login to get started with the contacts manager.
 
 ## Setup and install
 
